@@ -1,0 +1,15 @@
+artifact_uri: file:///home/baraa/Testing/fastapi-prometheus-grafana/mlruns/0/d6d89c284f1c48e6bc869d5365f685d2/artifacts
+end_time: 1728120882814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6d89c284f1c48e6bc869d5365f685d2
+run_name: aged-cat-691
+run_uuid: d6d89c284f1c48e6bc869d5365f685d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728120877349
+status: 3
+tags: []
+user_id: baraa

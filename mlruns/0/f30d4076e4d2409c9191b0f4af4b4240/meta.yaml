@@ -1,0 +1,15 @@
+artifact_uri: file:///home/baraa/Testing/fastapi-prometheus-grafana/mlruns/0/f30d4076e4d2409c9191b0f4af4b4240/artifacts
+end_time: 1728119955864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f30d4076e4d2409c9191b0f4af4b4240
+run_name: valuable-boar-966
+run_uuid: f30d4076e4d2409c9191b0f4af4b4240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728119948830
+status: 3
+tags: []
+user_id: baraa

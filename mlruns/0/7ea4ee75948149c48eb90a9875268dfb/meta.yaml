@@ -1,0 +1,15 @@
+artifact_uri: file:///home/baraa/Testing/fastapi-prometheus-grafana/mlruns/0/7ea4ee75948149c48eb90a9875268dfb/artifacts
+end_time: 1728048452221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ea4ee75948149c48eb90a9875268dfb
+run_name: agreeable-bear-269
+run_uuid: 7ea4ee75948149c48eb90a9875268dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728048444804
+status: 3
+tags: []
+user_id: baraa

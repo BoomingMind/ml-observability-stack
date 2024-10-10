@@ -1,0 +1,15 @@
+artifact_uri: file:///home/baraa/Testing/fastapi-prometheus-grafana/mlruns/0/81816eb34d09487d8a991fa16d233a75/artifacts
+end_time: 1728047638971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81816eb34d09487d8a991fa16d233a75
+run_name: bittersweet-gnu-593
+run_uuid: 81816eb34d09487d8a991fa16d233a75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728047632795
+status: 3
+tags: []
+user_id: baraa

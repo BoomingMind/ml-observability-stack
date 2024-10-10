@@ -1,0 +1,15 @@
+artifact_uri: file:///home/baraa/Testing/fastapi-prometheus-grafana/mlruns/0/17fbf0c6cfd14a42993dded7cc036ba1/artifacts
+end_time: 1728047412492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17fbf0c6cfd14a42993dded7cc036ba1
+run_name: carefree-fawn-611
+run_uuid: 17fbf0c6cfd14a42993dded7cc036ba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728047406955
+status: 3
+tags: []
+user_id: baraa

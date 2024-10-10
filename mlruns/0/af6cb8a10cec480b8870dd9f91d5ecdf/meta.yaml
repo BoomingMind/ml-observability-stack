@@ -1,0 +1,15 @@
+artifact_uri: file:///home/baraa/Testing/fastapi-prometheus-grafana/mlruns/0/af6cb8a10cec480b8870dd9f91d5ecdf/artifacts
+end_time: 1728053399114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af6cb8a10cec480b8870dd9f91d5ecdf
+run_name: efficient-fowl-320
+run_uuid: af6cb8a10cec480b8870dd9f91d5ecdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728053393872
+status: 3
+tags: []
+user_id: baraa
