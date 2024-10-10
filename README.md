@@ -1,6 +1,8 @@
 # FastAPI-Prometheus-Grafana-MLOPs
 MLOPs with Prometheus and Grafana for monitoring ML models deployed in FastAPI
 
+Link to article can be found [here](https://medium.com/stackademic/simplified-monitoring-for-ml-models-why-prometheus-and-grafana-are-the-tools-you-need-06a12fdc91f6)
+
 ## How to run
 
 1. Build and run the containers with `docker-compose`
